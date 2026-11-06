@@ -1,0 +1,39 @@
+[
+    {
+        "question": "What is Python?",
+        "expected_keywords": [" programming language"]
+    },
+    {
+        "question": "Is Python interpreted?",
+        "expected_keywords": ["interpreted"]
+    },
+    {
+        "question": "What are Python's built-in data types?",
+        "expected_keywords": ["int", "float", "str", "list"]
+    },
+    {
+        "question": "What is a list in Python?",
+        "expected_keywords": [" ordered "]
+    },
+    {
+        "question": "What is a tuple in Python?",
+        "expected_keywords": ["tuple", "immutable"]
+    },
+    {
+        "question": "What is a dictionary in Python?",
+        "expected_keywords": ["key", "value"]
+    },
+    {
+        "question": "What is a function in Python?",
+        "expected_keywords": ["def"]
+    },
+    {
+        "question": "What is a loop in Python?",
+        "expected_keywords": ["for", "while"]
+    },
+    {
+        "question": "What is exception handling in Python?",
+        "expected_keywords": ["try", "except"]
+    }
+    
+]
