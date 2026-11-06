@@ -109,14 +109,6 @@ The evaluation checks whether relevant information is retrieved for the defined 
 
 This result applies to the project's test dataset and does not represent universal answer accuracy.
 
-## Screenshots
-
-Add screenshots of the application here:
-
-- Main interface
-- PDF upload and processing
-- Generated answer with source references
-
 ## Future Improvements
 
 - Support additional document formats
